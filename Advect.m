@@ -14,6 +14,7 @@ b = (dt/2)/(12*dy);
 for i=1:Ny
      %constructing the matrix elements for x-axis(longitude)
      
+     %trial trial
      
     for j1=1:Nx
         a1x(1,j1)= 2;
